@@ -2,7 +2,7 @@
 ## ResearchBot: News Research Tool 📈
 
 It is a Streamlit-based web application designed to help users process and analyze news articles from URLs.
-Leveraging the power of OpenAI's language models and FAISS for efficient text retrieval, RockyBot provides a user-friendly
+Leveraging the power of OpenAI's language models and FAISS for efficient text retrieval, Bot provides a user-friendly
 interface for ingesting, processing, and querying information from news articles. 
 This tool is particularly useful for researchers, journalists, and anyone interested in extracting insights from multiple sources of information.
 
